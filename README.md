@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/4J-company/mr-graphics/issues/23) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. ❗ Opened issue [#43](https://github.com/4J-company/mr-graphics/issues/43) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-3. 💪 Opened PR [#16](https://github.com/4J-company/mr-math/pull/16) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-4. ❗ Opened issue [#15](https://github.com/4J-company/mr-math/issues/15) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-5. ❗ Opened issue [#13](https://github.com/4J-company/mr-math/issues/13) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+1. 🎉 Merged PR [#3](https://github.com/2b1g1c/my-paint/pull/3) in [2b1g1c/my-paint](https://github.com/2b1g1c/my-paint)
+2. ❗ Opened issue [#6](https://github.com/2b1g1c/my-paint/issues/6) in [2b1g1c/my-paint](https://github.com/2b1g1c/my-paint)
+3. ❗ Opened issue [#5](https://github.com/2b1g1c/my-paint/issues/5) in [2b1g1c/my-paint](https://github.com/2b1g1c/my-paint)
+4. ❗ Opened issue [#4](https://github.com/2b1g1c/my-paint/issues/4) in [2b1g1c/my-paint](https://github.com/2b1g1c/my-paint)
+5. ❌ Closed PR [#1](https://github.com/2b1g1c/my-paint/pull/1) in [2b1g1c/my-paint](https://github.com/2b1g1c/my-paint)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
