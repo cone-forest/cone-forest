@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/4J-company/mr-graphics/pull/44) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 🎉 Merged PR [#19](https://github.com/4J-company/mr-math/pull/19) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-3. 🔒 Closed issue [#12](https://github.com/4J-company/mr-math/issues/12) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-4. 🎉 Merged PR [#20](https://github.com/4J-company/mr-math/pull/20) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-5. 🎉 Merged PR [#45](https://github.com/4J-company/mr-graphics/pull/45) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 🎉 Merged PR [#1](https://github.com/2b1g1c/OurPaint/pull/1) in [2b1g1c/OurPaint](https://github.com/2b1g1c/OurPaint)
+2. 💪 Opened PR [#1](https://github.com/2b1g1c/OurPaint/pull/1) in [2b1g1c/OurPaint](https://github.com/2b1g1c/OurPaint)
+3. ❌ Closed PR [#35](https://github.com/SashaErkhov/OurPaint/pull/35) in [SashaErkhov/OurPaint](https://github.com/SashaErkhov/OurPaint)
+4. 💪 Opened PR [#35](https://github.com/SashaErkhov/OurPaint/pull/35) in [SashaErkhov/OurPaint](https://github.com/SashaErkhov/OurPaint)
+5. 🎉 Merged PR [#44](https://github.com/4J-company/mr-graphics/pull/44) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
