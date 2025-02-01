@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/4J-company/mr-importer/pull/1) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-2. ❗ Opened issue [#23](https://github.com/4J-company/mr-math/issues/23) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-3. ❌ Closed PR [#36](https://github.com/4J-company/mr-graphics/pull/36) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-4. 🎉 Merged PR [#46](https://github.com/4J-company/mr-graphics/pull/46) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-5. ❗ Opened issue [#22](https://github.com/4J-company/mr-math/issues/22) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+1. ❗ Opened issue [#24](https://github.com/4J-company/mr-math/issues/24) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+2. 🎉 Merged PR [#21](https://github.com/4J-company/mr-math/pull/21) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+3. 🔒 Closed issue [#14](https://github.com/4J-company/mr-math/issues/14) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+4. 💪 Opened PR [#1](https://github.com/4J-company/mr-importer/pull/1) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+5. ❗ Opened issue [#23](https://github.com/4J-company/mr-math/issues/23) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
