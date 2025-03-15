@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#52](https://github.com/4J-company/mr-graphics/issues/52) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 💪 Opened PR [#65](https://github.com/Naios/function2/pull/65) in [Naios/function2](https://github.com/Naios/function2)
-3. 🗣 Commented on [#49](https://github.com/4J-company/mr-graphics/pull/49#issuecomment-2676913720) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-4. 🗣 Commented on [#2](https://github.com/4J-company/mr-importer/issues/2#issuecomment-2661326061) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-5. ❗ Opened issue [#47](https://github.com/4J-company/mr-graphics/issues/47) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 🎉 Merged PR [#1](https://github.com/4J-company/mr-contractor/pull/1) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
+2. 💪 Opened PR [#1](https://github.com/4J-company/mr-contractor/pull/1) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
+3. ❗ Opened issue [#52](https://github.com/4J-company/mr-graphics/issues/52) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+4. 💪 Opened PR [#65](https://github.com/Naios/function2/pull/65) in [Naios/function2](https://github.com/Naios/function2)
+5. 🗣 Commented on [#49](https://github.com/4J-company/mr-graphics/pull/49#issuecomment-2676913720) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
