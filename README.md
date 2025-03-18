@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/4J-company/mr-contractor/issues/3#issuecomment-2730019057) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
-2. ❗ Opened issue [#2](https://github.com/4J-company/mr-contractor/issues/2) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
-3. 🎉 Merged PR [#1](https://github.com/4J-company/mr-contractor/pull/1) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
-4. 💪 Opened PR [#1](https://github.com/4J-company/mr-contractor/pull/1) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
-5. ❗ Opened issue [#52](https://github.com/4J-company/mr-graphics/issues/52) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 🔒 Closed issue [#9](https://github.com/4J-company/mr-math/issues/9) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+2. 🗣 Commented on [#3](https://github.com/4J-company/mr-contractor/issues/3#issuecomment-2730019057) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
+3. ❗ Opened issue [#2](https://github.com/4J-company/mr-contractor/issues/2) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
+4. 🎉 Merged PR [#1](https://github.com/4J-company/mr-contractor/pull/1) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
+5. 💪 Opened PR [#1](https://github.com/4J-company/mr-contractor/pull/1) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
