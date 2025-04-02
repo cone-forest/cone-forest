@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/4J-company/mr-math/pull/18) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-2. ❗ Opened issue [#26](https://github.com/4J-company/mr-math/issues/26) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-3. ❗ Opened issue [#4](https://github.com/4J-company/mr-contractor/issues/4) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
-4. 🗣 Commented on [#65](https://github.com/Naios/function2/pull/65#issuecomment-2734502406) in [Naios/function2](https://github.com/Naios/function2)
-5. 🔒 Closed issue [#9](https://github.com/4J-company/mr-math/issues/9) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+1. 🔒 Closed issue [#2](https://github.com/4J-company/mr-contractor/issues/2) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
+2. 🎉 Merged PR [#18](https://github.com/4J-company/mr-math/pull/18) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+3. ❗ Opened issue [#26](https://github.com/4J-company/mr-math/issues/26) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+4. ❗ Opened issue [#4](https://github.com/4J-company/mr-contractor/issues/4) in [4J-company/mr-contractor](https://github.com/4J-company/mr-contractor)
+5. 🗣 Commented on [#65](https://github.com/Naios/function2/pull/65#issuecomment-2734502406) in [Naios/function2](https://github.com/Naios/function2)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
