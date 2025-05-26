@@ -4,7 +4,7 @@
 
 TER (2022)            |  TMP (2023)
 -------------------------|-------------------------
-![](images/ter_screenshot_00_upscaled.png) Render overview: <br><ul><li> C/OpenGL <li> Deffered rendering pipeline <li> Blinn-Phong lighting model <li> Team size: ~20 | ![](images/tmp_screenshot_01_upscaled.png) Render overview: <br><ul><li> C++/Vulkan <li> Deffered rendering pipeline <li> Blinn-Phong lighting model <li> Culling and more compute shaders <li> Generally parallel <li> Team size ~10
+![](images/ter_screenshot_00_upscaled.webp) Render overview: <br><ul><li> C/OpenGL <li> Deffered rendering pipeline <li> Blinn-Phong lighting model <li> Team size: ~20 | ![](images/tmp_screenshot_01_upscaled.webp) Render overview: <br><ul><li> C++/Vulkan <li> Deffered rendering pipeline <li> Blinn-Phong lighting model <li> Culling and more compute shaders <li> Generally parallel <li> Team size ~10
 
 Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/mr-graphics)  
 
