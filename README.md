@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/4J-company/mr-graphics/pull/53#issuecomment-2992997047) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 🗣 Commented on [#53](https://github.com/4J-company/mr-graphics/pull/53#issuecomment-2992995644) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-3. 🗣 Commented on [#53](https://github.com/4J-company/mr-graphics/pull/53#issuecomment-2992994479) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-4. 💪 Opened PR [#53](https://github.com/4J-company/mr-graphics/pull/53) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-5. ❗ Opened issue [#1](https://github.com/cone-forest/mr-importer-rewrite/issues/1) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+1. ❌ Closed PR [#38](https://github.com/4J-company/mr-graphics/pull/38) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+2. 🗣 Commented on [#39](https://github.com/4J-company/mr-graphics/pull/39#issuecomment-2993600764) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+3. ❌ Closed PR [#39](https://github.com/4J-company/mr-graphics/pull/39) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+4. 🗣 Commented on [#32](https://github.com/4J-company/mr-graphics/issues/32#issuecomment-2993600124) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+5. 🔒 Closed issue [#32](https://github.com/4J-company/mr-graphics/issues/32) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
