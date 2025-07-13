@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/cone-forest/mr-importer-rewrite/pull/2) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
-2. 🚀 Published release [Fix dependency propagation](https://github.com/4J-company/mr-manager/releases/tag/v1.0.1) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
-3. 🚀 Published release [v1.0.0](https://github.com/4J-company/mr-manager/releases/tag/v1.0.0) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
-4. ❗ Opened issue [#1](https://github.com/4J-company/mr-manager/issues/1) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
-5. ❌ Closed PR [#38](https://github.com/4J-company/mr-graphics/pull/38) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. ❗ Opened issue [#4](https://github.com/cone-forest/mr-importer-rewrite/issues/4) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+2. ❗ Opened issue [#3](https://github.com/cone-forest/mr-importer-rewrite/issues/3) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+3. 🗣 Commented on [#1](https://github.com/cone-forest/mr-importer-rewrite/issues/1#issuecomment-3066317766) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+4. 🔒 Closed issue [#1](https://github.com/cone-forest/mr-importer-rewrite/issues/1) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+5. 🎉 Merged PR [#2](https://github.com/cone-forest/mr-importer-rewrite/pull/2) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
