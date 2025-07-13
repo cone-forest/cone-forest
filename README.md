@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix dependency propagation](https://github.com/4J-company/mr-manager/releases/tag/v1.0.1) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
-2. 🚀 Published release [v1.0.0](https://github.com/4J-company/mr-manager/releases/tag/v1.0.0) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
-3. ❗ Opened issue [#1](https://github.com/4J-company/mr-manager/issues/1) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
-4. ❌ Closed PR [#38](https://github.com/4J-company/mr-graphics/pull/38) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-5. 🗣 Commented on [#39](https://github.com/4J-company/mr-graphics/pull/39#issuecomment-2993600764) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 🎉 Merged PR [#2](https://github.com/cone-forest/mr-importer-rewrite/pull/2) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+2. 🚀 Published release [Fix dependency propagation](https://github.com/4J-company/mr-manager/releases/tag/v1.0.1) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
+3. 🚀 Published release [v1.0.0](https://github.com/4J-company/mr-manager/releases/tag/v1.0.0) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
+4. ❗ Opened issue [#1](https://github.com/4J-company/mr-manager/issues/1) in [4J-company/mr-manager](https://github.com/4J-company/mr-manager)
+5. ❌ Closed PR [#38](https://github.com/4J-company/mr-graphics/pull/38) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
