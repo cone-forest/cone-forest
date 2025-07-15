@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/4J-company/mr-math/pull/41) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-2. 💪 Opened PR [#5](https://github.com/cone-forest/mr-importer-rewrite/pull/5) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
-3. ❗ Opened issue [#4](https://github.com/cone-forest/mr-importer-rewrite/issues/4) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
-4. ❗ Opened issue [#3](https://github.com/cone-forest/mr-importer-rewrite/issues/3) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
-5. 🗣 Commented on [#1](https://github.com/cone-forest/mr-importer-rewrite/issues/1#issuecomment-3066317766) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+1. ❗ Opened issue [#6](https://github.com/cone-forest/mr-importer-rewrite/issues/6) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
+2. ❗ Opened issue [#57](https://github.com/4J-company/mr-graphics/issues/57) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+3. ❗ Opened issue [#56](https://github.com/4J-company/mr-graphics/issues/56) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+4. ❗ Opened issue [#55](https://github.com/4J-company/mr-graphics/issues/55) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+5. ❗ Opened issue [#54](https://github.com/4J-company/mr-graphics/issues/54) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
