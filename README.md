@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Cvelth/vkfw/issues/22#issuecomment-3091209343) in [Cvelth/vkfw](https://github.com/Cvelth/vkfw)
-2. ❗ Opened issue [#22](https://github.com/Cvelth/vkfw/issues/22) in [Cvelth/vkfw](https://github.com/Cvelth/vkfw)
-3. ❗ Opened issue [#58](https://github.com/4J-company/mr-graphics/issues/58) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-4. ❗ Opened issue [#6](https://github.com/cone-forest/mr-importer-rewrite/issues/6) in [cone-forest/mr-importer-rewrite](https://github.com/cone-forest/mr-importer-rewrite)
-5. ❗ Opened issue [#57](https://github.com/4J-company/mr-graphics/issues/57) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 🔒 Closed issue [#22](https://github.com/Cvelth/vkfw/issues/22) in [Cvelth/vkfw](https://github.com/Cvelth/vkfw)
+2. 🗣 Commented on [#22](https://github.com/Cvelth/vkfw/issues/22#issuecomment-3092475286) in [Cvelth/vkfw](https://github.com/Cvelth/vkfw)
+3. 💪 Opened PR [#23](https://github.com/Cvelth/vkfw/pull/23) in [Cvelth/vkfw](https://github.com/Cvelth/vkfw)
+4. 🗣 Commented on [#22](https://github.com/Cvelth/vkfw/issues/22#issuecomment-3092472139) in [Cvelth/vkfw](https://github.com/Cvelth/vkfw)
+5. 🗣 Commented on [#22](https://github.com/Cvelth/vkfw/issues/22#issuecomment-3092463821) in [Cvelth/vkfw](https://github.com/Cvelth/vkfw)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
