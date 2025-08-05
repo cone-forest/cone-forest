@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.4](https://github.com/4J-company/mr-utils/releases/tag/v1.0.4) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
-2. 🗣 Commented on [#60](https://github.com/4J-company/mr-graphics/issues/60#issuecomment-3148529070) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-3. 🚀 Published release [v1.0.3](https://github.com/4J-company/mr-utils/releases/tag/v1.0.3) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
-4. 🚀 Published release [v1.0.2](https://github.com/4J-company/mr-utils/releases/tag/v1.0.2) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
-5. 🚀 Published release [v1.0.1](https://github.com/4J-company/mr-utils/releases/tag/v1.0.1) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
+1. 🚀 Published release [v1.1.1](https://github.com/4J-company/mr-math/releases/tag/v1.1.1) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
+2. 🚀 Published release [v1.0.4](https://github.com/4J-company/mr-utils/releases/tag/v1.0.4) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
+3. 🗣 Commented on [#60](https://github.com/4J-company/mr-graphics/issues/60#issuecomment-3148529070) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+4. 🚀 Published release [v1.0.3](https://github.com/4J-company/mr-utils/releases/tag/v1.0.3) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
+5. 🚀 Published release [v1.0.2](https://github.com/4J-company/mr-utils/releases/tag/v1.0.2) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
