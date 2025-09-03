@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/4J-company/mr-graphics/pull/65#issuecomment-3209656140) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 🚀 Published release [v1.1.1](https://github.com/4J-company/mr-math/releases/tag/v1.1.1) in [4J-company/mr-math](https://github.com/4J-company/mr-math)
-3. 🚀 Published release [v1.0.4](https://github.com/4J-company/mr-utils/releases/tag/v1.0.4) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
-4. 🗣 Commented on [#60](https://github.com/4J-company/mr-graphics/issues/60#issuecomment-3148529070) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-5. 🚀 Published release [v1.0.3](https://github.com/4J-company/mr-utils/releases/tag/v1.0.3) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
+1. 🗣 Commented on [#8](https://github.com/4J-company/mr-importer/issues/8#issuecomment-3248794830) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+2. ❗ Opened issue [#8](https://github.com/4J-company/mr-importer/issues/8) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+3. 🎉 Merged PR [#5](https://github.com/4J-company/mr-importer/pull/5) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+4. 🎉 Merged PR [#7](https://github.com/4J-company/mr-importer/pull/7) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+5. 🗣 Commented on [#65](https://github.com/4J-company/mr-graphics/pull/65#issuecomment-3209656140) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
