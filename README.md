@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1387](https://github.com/g-truc/glm/issues/1387) in [g-truc/glm](https://github.com/g-truc/glm)
-2. 🚀 Published release [v1.0.0](https://github.com/4J-company/mr-importer/releases/tag/v1.0.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-3. 🎉 Merged PR [#11](https://github.com/4J-company/mr-importer/pull/11) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-4. 💪 Opened PR [#11](https://github.com/4J-company/mr-importer/pull/11) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-5. ❗ Opened issue [#10](https://github.com/4J-company/mr-importer/issues/10) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+1. 💪 Opened PR [#358](https://github.com/nmwsharp/polyscope/pull/358) in [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope)
+2. ❗ Opened issue [#1387](https://github.com/g-truc/glm/issues/1387) in [g-truc/glm](https://github.com/g-truc/glm)
+3. 🚀 Published release [v1.0.0](https://github.com/4J-company/mr-importer/releases/tag/v1.0.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+4. 🎉 Merged PR [#11](https://github.com/4J-company/mr-importer/pull/11) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+5. 💪 Opened PR [#11](https://github.com/4J-company/mr-importer/pull/11) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
