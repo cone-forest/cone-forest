@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/4J-company/mr-graphics/pull/70) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 💪 Opened PR [#71](https://github.com/4J-company/mr-graphics/pull/71) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-3. 💪 Opened PR [#70](https://github.com/4J-company/mr-graphics/pull/70) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-4. 🎉 Merged PR [#67](https://github.com/4J-company/mr-graphics/pull/67) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-5. ❗ Opened issue [#69](https://github.com/4J-company/mr-graphics/issues/69) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 💪 Opened PR [#72](https://github.com/4J-company/mr-graphics/pull/72) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+2. 🎉 Merged PR [#70](https://github.com/4J-company/mr-graphics/pull/70) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+3. 💪 Opened PR [#71](https://github.com/4J-company/mr-graphics/pull/71) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+4. 💪 Opened PR [#70](https://github.com/4J-company/mr-graphics/pull/70) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+5. 🎉 Merged PR [#67](https://github.com/4J-company/mr-graphics/pull/67) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
