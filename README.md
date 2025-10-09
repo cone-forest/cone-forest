@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.1.2](https://github.com/4J-company/mr-importer/releases/tag/v2.1.2) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-2. 🚀 Published release [v2.1.1](https://github.com/4J-company/mr-importer/releases/tag/v2.1.1) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-3. 🎉 Merged PR [#13](https://github.com/4J-company/mr-importer/pull/13) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-4. 💪 Opened PR [#13](https://github.com/4J-company/mr-importer/pull/13) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-5. 💪 Opened PR [#12](https://github.com/4J-company/mr-importer/pull/12) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+1. 🚀 Published release [v2.1.4](https://github.com/4J-company/mr-importer/releases/tag/v2.1.4) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+2. 🚀 Published release [v2.1.3](https://github.com/4J-company/mr-importer/releases/tag/v2.1.3) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+3. 🚀 Published release [v2.1.2](https://github.com/4J-company/mr-importer/releases/tag/v2.1.2) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+4. 🚀 Published release [v2.1.1](https://github.com/4J-company/mr-importer/releases/tag/v2.1.1) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+5. 🎉 Merged PR [#13](https://github.com/4J-company/mr-importer/pull/13) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
