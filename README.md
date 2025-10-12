@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.3.1](https://github.com/4J-company/mr-importer/releases/tag/v2.3.1) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-2. 🚀 Published release [v2.3.0](https://github.com/4J-company/mr-importer/releases/tag/v2.3.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-3. 💪 Opened PR [#7](https://github.com/spnda/dds_image/pull/7) in [spnda/dds_image](https://github.com/spnda/dds_image)
-4. 🚀 Published release [v2.2.4](https://github.com/4J-company/mr-importer/releases/tag/v2.2.4) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-5. ❗ Opened issue [#6](https://github.com/spnda/dds_image/issues/6) in [spnda/dds_image](https://github.com/spnda/dds_image)
+1. 🚀 Published release [v2.3.3](https://github.com/4J-company/mr-importer/releases/tag/v2.3.3) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+2. 🚀 Published release [v2.3.2](https://github.com/4J-company/mr-importer/releases/tag/v2.3.2) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+3. 🚀 Published release [v2.3.1](https://github.com/4J-company/mr-importer/releases/tag/v2.3.1) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+4. 🚀 Published release [v2.3.0](https://github.com/4J-company/mr-importer/releases/tag/v2.3.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+5. 💪 Opened PR [#7](https://github.com/spnda/dds_image/pull/7) in [spnda/dds_image](https://github.com/spnda/dds_image)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
