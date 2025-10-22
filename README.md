@@ -11,9 +11,9 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 #### Recent activity:
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#82](undefined) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 💪 Opened PR [#81](undefined) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-3. 💪 Opened PR [#79](undefined) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-4. 💪 Opened PR [#7](undefined) in [spnda/dds_image](https://github.com/spnda/dds_image)
+2. 🚀 Published release [v2.7.0](https://github.com/4J-company/mr-importer/releases/tag/v2.7.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+3. 🚀 Published release [v2.6.1](https://github.com/4J-company/mr-importer/releases/tag/v2.6.1) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+4. 💪 Opened PR [#81](undefined) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 5. 🚀 Published release [v2.5.2](https://github.com/4J-company/mr-importer/releases/tag/v2.5.2) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
 <!--END_SECTION:activity-->
 
