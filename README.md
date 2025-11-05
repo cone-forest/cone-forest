@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#69](https://github.com/4J-company/mr-graphics/issues/69) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 🚀 Published release [v1.1.1](https://github.com/4J-company/mr-utils/releases/tag/v1.1.1) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
-3. 🚀 Published release [v1.1.0](https://github.com/4J-company/mr-utils/releases/tag/v1.1.0) in [4J-company/mr-utils](https://github.com/4J-company/mr-utils)
-4. 💪 Opened PR [#85](undefined) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-5. 💪 Opened PR [#83](undefined) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 🔒 Closed issue [#80](https://github.com/4J-company/mr-graphics/issues/80) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+2. 🔒 Closed issue [#26](https://github.com/4J-company/mr-graphics/issues/26) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+3. 🔒 Closed issue [#40](https://github.com/4J-company/mr-graphics/issues/40) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+4. 🔒 Closed issue [#63](https://github.com/4J-company/mr-graphics/issues/63) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+5. 🔒 Closed issue [#61](https://github.com/4J-company/mr-graphics/issues/61) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
