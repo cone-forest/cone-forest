@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#47](https://github.com/4J-company/mr-graphics/issues/47) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-2. 🔒 Closed issue [#55](https://github.com/4J-company/mr-graphics/issues/55) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
-3. 🚀 Published release [v3.1.0](https://github.com/4J-company/mr-importer/releases/tag/v3.1.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-4. 🚀 Published release [v3.0.0](https://github.com/4J-company/mr-importer/releases/tag/v3.0.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-5. 🗣 Commented on [#93](https://github.com/4J-company/mr-graphics/pull/93#issuecomment-3597973529) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+1. 💪 Opened PR [#29](undefined) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
+2. 🔒 Closed issue [#47](https://github.com/4J-company/mr-graphics/issues/47) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+3. 🔒 Closed issue [#55](https://github.com/4J-company/mr-graphics/issues/55) in [4J-company/mr-graphics](https://github.com/4J-company/mr-graphics)
+4. 🚀 Published release [v3.1.0](https://github.com/4J-company/mr-importer/releases/tag/v3.1.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+5. 🚀 Published release [v3.0.0](https://github.com/4J-company/mr-importer/releases/tag/v3.0.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
