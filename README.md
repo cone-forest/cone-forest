@@ -19,4 +19,4 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Contact me here:
  - telegram: https://t.me/cgsg106
- - email:    mt6@4j-company.ru
+ - email:    mikhail.d.tsukanov@proton.me
