@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/citec-spbu/precision-analysis/pull/35) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
-2. 💪 Opened PR [#35](https://github.com/citec-spbu/precision-analysis/pull/35) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
-3. 🗣 Commented on [#32](https://github.com/citec-spbu/precision-analysis/issues/32#issuecomment-3985139995) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
-4. 🔒 Closed issue [#32](https://github.com/citec-spbu/precision-analysis/issues/32) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
-5. 🔒 Closed issue [#33](https://github.com/citec-spbu/precision-analysis/issues/33) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
+1. 🗣 Commented on [#358](https://github.com/nmwsharp/polyscope/pull/358#issuecomment-4016101846) in [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope)
+2. 🎉 Merged PR [#35](https://github.com/citec-spbu/precision-analysis/pull/35) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
+3. 💪 Opened PR [#35](https://github.com/citec-spbu/precision-analysis/pull/35) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
+4. 🗣 Commented on [#32](https://github.com/citec-spbu/precision-analysis/issues/32#issuecomment-3985139995) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
+5. 🔒 Closed issue [#32](https://github.com/citec-spbu/precision-analysis/issues/32) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
