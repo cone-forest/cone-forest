@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069468732) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-2. 💪 Opened PR [#5](https://github.com/AMCP-Drones/drones/pull/5) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-3. 🚀 Published release [v3.2.0](https://github.com/4J-company/mr-importer/releases/tag/v3.2.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-4. 🗣 Commented on [#358](https://github.com/nmwsharp/polyscope/pull/358#issuecomment-4016101846) in [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope)
-5. 🎉 Merged PR [#35](https://github.com/citec-spbu/precision-analysis/pull/35) in [citec-spbu/precision-analysis](https://github.com/citec-spbu/precision-analysis)
+1. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069755644) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+2. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069746903) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+3. ❌ Closed PR [#6](https://github.com/AMCP-Drones/drones/pull/6) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+4. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069653765) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+5. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069547568) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
