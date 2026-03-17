@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4076458643) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-2. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4076353498) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-3. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069755644) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-4. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069746903) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-5. ❌ Closed PR [#6](https://github.com/AMCP-Drones/drones/pull/6) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+1. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4076635985) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+2. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4076458643) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+3. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4076353498) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+4. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069755644) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+5. 🗣 Commented on [#5](https://github.com/AMCP-Drones/drones/pull/5#issuecomment-4069746903) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
