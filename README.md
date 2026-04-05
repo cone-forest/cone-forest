@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.3.0](https://github.com/4J-company/mr-importer/releases/tag/v3.3.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-2. 🎉 Merged PR [#16](https://github.com/4J-company/mr-importer/pull/16) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-3. 💪 Opened PR [#16](https://github.com/4J-company/mr-importer/pull/16) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-4. 🎉 Merged PR [#9](https://github.com/AMCP-Drones/drones/pull/9) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-5. 💪 Opened PR [#9](https://github.com/AMCP-Drones/drones/pull/9) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+1. 🚀 Published release [v3.4.0](https://github.com/4J-company/mr-importer/releases/tag/v3.4.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+2. 🚀 Published release [v3.3.0](https://github.com/4J-company/mr-importer/releases/tag/v3.3.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+3. 🎉 Merged PR [#16](https://github.com/4J-company/mr-importer/pull/16) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+4. 💪 Opened PR [#16](https://github.com/4J-company/mr-importer/pull/16) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+5. 🎉 Merged PR [#9](https://github.com/AMCP-Drones/drones/pull/9) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
