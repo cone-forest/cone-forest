@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/AMCP-Drones/drones/pull/7) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-2. 🚀 Published release [v3.4.0](https://github.com/4J-company/mr-importer/releases/tag/v3.4.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-3. 🚀 Published release [v3.3.0](https://github.com/4J-company/mr-importer/releases/tag/v3.3.0) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-4. 🎉 Merged PR [#16](https://github.com/4J-company/mr-importer/pull/16) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
-5. 💪 Opened PR [#16](https://github.com/4J-company/mr-importer/pull/16) in [4J-company/mr-importer](https://github.com/4J-company/mr-importer)
+1. 💪 Opened PR [#12](https://github.com/AMCP-Drones/drones/pull/12) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+2. ❌ Closed PR [#11](https://github.com/AMCP-Drones/drones/pull/11) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+3. 💪 Opened PR [#11](https://github.com/AMCP-Drones/drones/pull/11) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+4. ❌ Closed PR [#10](https://github.com/AMCP-Drones/drones/pull/10) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+5. 💪 Opened PR [#10](https://github.com/AMCP-Drones/drones/pull/10) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
