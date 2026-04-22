@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-2. 💪 Opened PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-3. ❗ Opened issue [#51182](https://github.com/microsoft/vcpkg/issues/51182) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-4. 💪 Opened PR [#13](https://github.com/AMCP-Drones/drones/pull/13) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-5. ❌ Closed PR [#12](https://github.com/AMCP-Drones/drones/pull/12) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+1. 🔒 Closed issue [#8](https://github.com/spnda/dds_image/issues/8) in [spnda/dds_image](https://github.com/spnda/dds_image)
+2. ❌ Closed PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+3. 💪 Opened PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+4. ❗ Opened issue [#51182](https://github.com/microsoft/vcpkg/issues/51182) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+5. 💪 Opened PR [#13](https://github.com/AMCP-Drones/drones/pull/13) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
