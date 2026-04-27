@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#463](https://github.com/KomputeProject/kompute/pull/463) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
-2. 🔒 Closed issue [#8](https://github.com/spnda/dds_image/issues/8) in [spnda/dds_image](https://github.com/spnda/dds_image)
-3. ❌ Closed PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-4. 💪 Opened PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-5. ❗ Opened issue [#51182](https://github.com/microsoft/vcpkg/issues/51182) in [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
+1. 🗣 Commented on [#463](https://github.com/KomputeProject/kompute/pull/463#issuecomment-4325302997) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
+2. 💪 Opened PR [#463](https://github.com/KomputeProject/kompute/pull/463) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
+3. 🔒 Closed issue [#8](https://github.com/spnda/dds_image/issues/8) in [spnda/dds_image](https://github.com/spnda/dds_image)
+4. ❌ Closed PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+5. 💪 Opened PR [#14](https://github.com/AMCP-Drones/drones/pull/14) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
