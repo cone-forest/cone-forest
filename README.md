@@ -10,11 +10,11 @@ Currently working on WIP renderer - [mr-graphics](https://github.com/4J-company/
 
 #### Recent activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/AMCP-Drones/drones/pull/16) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-2. 💪 Opened PR [#16](https://github.com/AMCP-Drones/drones/pull/16) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
-3. 🗣 Commented on [#463](https://github.com/KomputeProject/kompute/pull/463#issuecomment-4339559801) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
-4. 🗣 Commented on [#463](https://github.com/KomputeProject/kompute/pull/463#issuecomment-4325302997) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
-5. 💪 Opened PR [#463](https://github.com/KomputeProject/kompute/pull/463) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
+1. 💪 Opened PR [#17](https://github.com/AMCP-Drones/drones/pull/17) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+2. 🎉 Merged PR [#16](https://github.com/AMCP-Drones/drones/pull/16) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+3. 💪 Opened PR [#16](https://github.com/AMCP-Drones/drones/pull/16) in [AMCP-Drones/drones](https://github.com/AMCP-Drones/drones)
+4. 🗣 Commented on [#463](https://github.com/KomputeProject/kompute/pull/463#issuecomment-4339559801) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
+5. 🗣 Commented on [#463](https://github.com/KomputeProject/kompute/pull/463#issuecomment-4325302997) in [KomputeProject/kompute](https://github.com/KomputeProject/kompute)
 <!--END_SECTION:activity-->
 
 #### Contact me here:
